@@ -1,4 +1,6 @@
+var TSC = TSC || {};
 
+TSC.embedded_config_xml = '<x:xmpmeta xmlns:x="adobe:ns:meta/">\
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
       <rdf:Description tsc:version="2.0.1" dc:date="2018-08-08 07:01:02 PM" dc:source="Camtasia Studio,8.6.0,enu" dc:title="Week4_part2" tscDM:firstFrame="Week4_part2_First_Frame.png" tscDM:originId="F7401D90-BA76-4106-ADA4-1E4294441B74" tscDM:project="Week4_part2">\
          <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="488333"/>\
